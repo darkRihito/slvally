@@ -1,7 +1,7 @@
 <h1 align="center">
   Welcome XD
 <!--   <img src="https://media.tenor.com/RpXukdyagxsAAAAi/angry-fox.gif" width="60px"/> -->
-  <img src="https://media.tenor.com/YLOlmVlg304AAAAi/shiro-cute.gif" width="60px"/>
+<!--  <img src="https://media.tenor.com/YLOlmVlg304AAAAi/shiro-cute.gif" width="60px"/> -->
 </h1>
 
 
@@ -52,6 +52,6 @@
 </p>
 
 <!-- <div><img width="80%" src="https://media.tenor.com/FDEUowEjV9oAAAAC/no-game-no-life-anime.gif"/></div> -->
-<div><img width="80%" src="https://media.tenor.com/KwEWMvs2RhUAAAAC/oshi-no-ko-yaosobi.gif"/></div>
+<!-- <div><img width="80%" src="https://media.tenor.com/KwEWMvs2RhUAAAAC/oshi-no-ko-yaosobi.gif"/></div> -->
 <!-- <div><img width="80%" src="https://github.com/slvally/slvally/blob/main/ezgif-5-1f7a137a3d.gif"/></div> -->
 <!--<div><img width="80%" src="https://media.tenor.com/IqqjXGYjtHYAAAAC/anime-pink-hair.gif"/></div>-->
