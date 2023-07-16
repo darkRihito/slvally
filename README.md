@@ -1,7 +1,7 @@
 <h1 align="center">
   Welcome XD
 <!--   <img src="https://media.tenor.com/RpXukdyagxsAAAAi/angry-fox.gif" width="60px"/> -->
-<!--  <img src="https://media.tenor.com/YLOlmVlg304AAAAi/shiro-cute.gif" width="60px"/> -->
+  <img src="https://media.tenor.com/YLOlmVlg304AAAAi/shiro-cute.gif" width="60px"/> 
 </h1>
 
 
@@ -12,7 +12,7 @@
 <p align="justify">I'm 20-years-old introverted Computer Science student at the University of Pendidikan Indonesia. I also studied at Bangkit Academy 2023 led by Google, GoTo, and Traveloka. I have a deep passion for technology and I always enjoy keeping up with the latest advancements. When I'm not coding, you can find me indulging in my love for video games, anime, and writing. I am also interested in exploring the worlds of Art and Design, and Philosophy.<p>
 
 <!-- <img alt="" src="https://media.tenor.com/MYDG91HHJ-oAAAAC/vestia-zeta-hololive.gif" align="right"  width="50%" marginLeft="2em"/> -->
-<img alt="" src="https://media.tenor.com/Hyma91bpX1UAAAAC/no-game-no-life-ngnl.gif" align="right"  width="50%" marginLeft="2em"/>
+<!-- <img alt="" src="https://media.tenor.com/Hyma91bpX1UAAAAC/no-game-no-life-ngnl.gif" align="right"  width="50%" marginLeft="2em"/> -->
 <!-- <img alt="" src="https://media.tenor.com/Wm2_dA3yx4oAAAAd/%E3%83%A0%E3%83%BC%E3%83%8A-%E3%83%9B%E3%83%AD%E3%83%A9%E3%82%A4%E3%83%96.gif" align="right"  width="50%" marginLeft="2em"/> -->
   
 
