@@ -27,7 +27,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-rafi-shidiq-b67122272) 
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-%230077B5.svg?logo=instagram&logoColor=white)](https://www.instagram.com/kyurem_ra)  -->
 
-<h3 align="left">🛠️ Technologies & Tools:</h3>
+## 🛠️ Technologies & Tools:
 <p align="left">
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
