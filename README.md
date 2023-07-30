@@ -55,15 +55,15 @@
 
 # 📊 Statistics
 <p align="start">
-<!-- <a href="https://github.com/slvally">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=slvally&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+<!-- <a href="https://github.com/darkRihito">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=darkRihito&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
 </a> -->
-<a href="https://github.com/slvally">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=slvally&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/darkRihito">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=darkRihito&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </a>
-<!-- <a href="https://github.com/slvally">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=slvally&layout=compact&langs_count=9&theme=vision-friendly-dark"/>
-</a> -->
+<!-- <a href="https://github.com/darkRihito">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=darkRihito&layout=compact&langs_count=9&theme=dark"/>
+</a>  -->
 </p>
 
 <!-- <div><img width="80%" src="https://media.tenor.com/FDEUowEjV9oAAAAC/no-game-no-life-anime.gif"/></div> -->
