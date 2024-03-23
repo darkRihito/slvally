@@ -1,10 +1,11 @@
-![banner](https://github.com/slvally/slvally/assets/133903731/b14e3dcd-4bd8-4d90-a11b-74be3e5461ee)
+<!-- ![banner](https://github.com/slvally/slvally/assets/133903731/b14e3dcd-4bd8-4d90-a11b-74be3e5461ee) -->
+<!-- 
 <h1 align="center">
   Greetings xD
-<!-- <img src="https://media.tenor.com/RpXukdyagxsAAAAi/angry-fox.gif" width="60px"/> -->
+<img src="https://media.tenor.com/RpXukdyagxsAAAAi/angry-fox.gif" width="60px"/> 
   <img src="https://media.tenor.com/YLOlmVlg304AAAAi/shiro-cute.gif" width="60px"/> 
 </h1>
- 
+-->
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+There!;Glad+to+See+You+Here!+👋)](https://git.io/typing-svg) -->
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=200&color=F7CB00&width=435&lines=Hi+There!;Glad+to+See+You+Here!+👋)](https://git.io/typing-svg) -->
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira&color=F7CB00&width=435&lines=Hi+There!;Glad+to+See+You+Here!+👋)](https://git.io/typing-svg) -->
@@ -13,7 +14,7 @@
 <p align="justify">Beyond, I'm deeply engaged in video games, anime, and writing, which complements my interests in art, graphic design, and philosophy, enabling me to infuse creativity into every project.<p>
 
 <!-- <img alt="" src="https://media.tenor.com/MYDG91HHJ-oAAAAC/vestia-zeta-hololive.gif" align="right"  width="50%" marginLeft="2em"/> -->
- <img alt="" src="https://media.tenor.com/Hyma91bpX1UAAAAC/no-game-no-life-ngnl.gif" align="right"  width="50%" marginLeft="3em"/>  
+<!-- <img alt="" src="https://media.tenor.com/Hyma91bpX1UAAAAC/no-game-no-life-ngnl.gif" align="right"  width="50%" marginLeft="3em"/>  -->
 <!-- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rihitoRiku&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" align="right"  width="50%" marginLeft="2em"/> -->
 <!-- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rihitoRiku&show_icons=true&theme=dark&include_all_commits=true&count_private=true" align="right"  width="50%" marginLeft="2em"/> -->
 <!-- <img alt="" src="https://media.tenor.com/Wm2_dA3yx4oAAAAd/%E3%83%A0%E3%83%BC%E3%83%8A-%E3%83%9B%E3%83%AD%E3%83%A9%E3%82%A4%E3%83%96.gif" align="right"  width="50%" marginLeft="2em"/> -->
