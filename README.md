@@ -75,7 +75,7 @@
 
 </p>
 -->
-<div><img width="80%" src="https://media.tenor.com/FDEUowEjV9oAAAAC/no-game-no-life-anime.gif"/></div>
+<!-- <div><img width="80%" src="https://media.tenor.com/FDEUowEjV9oAAAAC/no-game-no-life-anime.gif"/></div> -->
 <!-- <div><img width="80%" src="https://media.tenor.com/KwEWMvs2RhUAAAAC/oshi-no-ko-yaosobi.gif"/></div> -->
 <!-- <div><img width="80%" src="https://github.com/slvally/slvally/blob/main/ezgif-5-1f7a137a3d.gif"/></div> -->
 <!-- <div><img width="80%" src="https://media.tenor.com/IqqjXGYjtHYAAAAC/anime-pink-hair.gif"/></div> -->
