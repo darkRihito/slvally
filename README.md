@@ -1,11 +1,11 @@
 <!-- ![banner](https://github.com/slvally/slvally/assets/133903731/b14e3dcd-4bd8-4d90-a11b-74be3e5461ee) -->
-<!-- 
+
 <h1 align="center">
   Greetings xD
-<img src="https://media.tenor.com/RpXukdyagxsAAAAi/angry-fox.gif" width="60px"/> 
+<!--  <img src="https://media.tenor.com/RpXukdyagxsAAAAi/angry-fox.gif" width="60px"/> -->
   <img src="https://media.tenor.com/YLOlmVlg304AAAAi/shiro-cute.gif" width="60px"/> 
 </h1>
--->
+
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+There!;Glad+to+See+You+Here!+👋)](https://git.io/typing-svg) -->
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=200&color=F7CB00&width=435&lines=Hi+There!;Glad+to+See+You+Here!+👋)](https://git.io/typing-svg) -->
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira&color=F7CB00&width=435&lines=Hi+There!;Glad+to+See+You+Here!+👋)](https://git.io/typing-svg) -->
@@ -76,7 +76,7 @@
 </p>
 -->
 <!-- <div><img width="80%" src="https://media.tenor.com/FDEUowEjV9oAAAAC/no-game-no-life-anime.gif"/></div> -->
-<!-- <div><img width="80%" src="https://media.tenor.com/KwEWMvs2RhUAAAAC/oshi-no-ko-yaosobi.gif"/></div> -->
+ <div><img width="80%" src="https://media.tenor.com/KwEWMvs2RhUAAAAC/oshi-no-ko-yaosobi.gif"/></div> 
 <!-- <div><img width="80%" src="https://github.com/slvally/slvally/blob/main/ezgif-5-1f7a137a3d.gif"/></div> -->
 <!-- <div><img width="80%" src="https://media.tenor.com/IqqjXGYjtHYAAAAC/anime-pink-hair.gif"/></div> -->
 <!-- ![image](https://github.com/slvally/slvally/assets/133903731/4a3c000f-a17f-4fba-8e6b-b41f3c85e473) -->
